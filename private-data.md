@@ -1,6 +1,7 @@
-This concept is elaborated in the closuresScopePrivatedata.md file
+> This concept is elaborated in the closuresScopePrivatedata.md file
 ---
 
+# Description of Private Data
 
 It's possible to define data in an object that is not accessible from outside of the object, i.e. **private data**. However, the concept of private data in JavaScript is not built-in to JavaScript. 
 

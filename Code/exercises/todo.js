@@ -1,11 +1,4 @@
-// This class represents a todo item and its associated
-// data: the todo title and a flag that shows whether the
-// todo item is done.
-
 class Todo {
-  static DONE_MARKER = "X";
-  static UNDONE_MARKER = " ";
-
   constructor(title) {
     this.title = title;
     this.done = false;
@@ -32,5 +25,8 @@ class Todo {
     return this.title;
   }
 }
+
+Todo.DONE_MARKER = "X";
+Todo.UNDONE_MARKER = " ";
 
 module.exports = Todo;

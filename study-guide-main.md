@@ -13,17 +13,17 @@ https://medium.com/launch-school/javascript-weekly-making-sense-of-closures-daa2
 - Shorthand notation (understanding, not using)
 - Modules (CommonJS)
 - Exceptions
-- Side Effects and Pure Functions
+- Side Effects and Pure Functions - https://launchschool.com/lessons/43f23069/assignments/a200fbec
 
 # Testing With Jest
 
 - Testing terminology ✅
 - Jest ✅ 
 - expect and matchers (toBe and toEqual especially) ✅
-- SEAT approach
-- Understanding code coverage
-- Writing tests (outline/how to)
-- Practice writing tests
+- SEAT approach ✅
+- Understanding code coverage ✅
+- Writing tests (outline/how to) ✅
+- ➕Practice writing tests
 
 # Packaging Code
 
@@ -33,7 +33,7 @@ https://medium.com/launch-school/javascript-weekly-making-sense-of-closures-daa2
 - package.json and package-lock.json
 - npm scripts
 - packaging projects
-- Lodash
+- ➕Lodash
 
 # Regular Expressions
 
@@ -44,13 +44,14 @@ https://medium.com/launch-school/javascript-weekly-making-sense-of-closures-daa2
 
 
 # The Coding Challenge
-- About the same level as the easy/medium challenges I think?
-- Make a list of all of the 'gotchas'
-- Review the 'gotchas' in the closure section
+- About the same level as the easy/medium
+
+## General coding practice
+- Make a list of all of the 'gotchas' from the course + link to description
+- Esp review the 'gotchas' in the closure section
 
 
 ---
-
 # Study Plan
 - Code 2 of the challenge exercises every day
 - Repeat the example exercises in each section 2-3x
@@ -61,3 +62,8 @@ https://medium.com/launch-school/javascript-weekly-making-sense-of-closures-daa2
 - Link to each part of the chapter and a summary of what is in the chapter
 - Come up with more things to practice coding for closure, callback, hositing, etc.
 - Describe how module.export works and importing/requiring the file
+
+- Achieve 100% code coverage for the todolist tests in the file.
+
+
+

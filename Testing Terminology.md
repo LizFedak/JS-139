@@ -1,4 +1,4 @@
-**regression** - an event that causes previously working code to stop working after a change to ysour code or your environment, i.e. it 'regresses' to an earlier development state
+**regression** - an event that causes previously working code to stop working after a change to your code or your environment, i.e. it 'regresses' to an earlier development state
 
 We write tests so we can change things without having to verify if they still work later.
 
@@ -6,6 +6,8 @@ You can write tests before, during, or after you write the code.
 
 We are learning 'unit testing' in LS.
 
+LS:
+> Regression tests check for bugs that occur in formerly working code after you make changes somewhere in the codebase. Using tests to identify these bugs means we don't have to verify that everything works manually after each change.
 
 
 **Test Suite** - The entire set of tests that go with your program or application. i.e. if you have a `sieve.js` file and a `sieve.test.js` file with all of your tests, that second file is your test suite.

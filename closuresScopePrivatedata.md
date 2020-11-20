@@ -4,7 +4,8 @@ We can use closures to define private data in JavaScript objects.
 
 
 
-1. Write code that uses closure to create private data.
+1. Write code that uses closure to create priva
+te data.
 
 ```js
 function createUser(profileName) {
