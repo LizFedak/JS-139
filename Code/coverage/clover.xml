@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1605894584806" clover="3.2.0">
-  <project timestamp="1605894584806" name="All files">
+<coverage generated="1605900152250" clover="3.2.0">
+  <project timestamp="1605900152250" name="All files">
     <metrics statements="8" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1" elements="10" coveredelements="7" complexity="0" loc="8" ncloc="8" packages="1" files="1" classes="1"/>
     <file name="wine.js" path="/Users/liz/Desktop/JS130-Studyguide/Code/wine.js">
       <metrics statements="8" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
